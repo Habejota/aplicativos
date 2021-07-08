@@ -1,0 +1,3 @@
+# Alterar
+PS1="$ "
+echo "Foi mais ou menos"
